@@ -1,0 +1,44 @@
+h3 {
+  margin-top: 10%;
+padding:auto;
+  text-align: center;
+  color: azure;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: x-large;
+}
+body {
+  background-image: url("https://www.holidify.com/images/cmsuploads/compressed/attr_1568_20191102174918.jpg");
+
+  background-repeat: no-repeat;
+  background-size:cover;
+
+}
+.FOOL {
+  margin-top: 20%;
+  text-align: center;
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+#search {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+#last {
+  padding: auto;
+  width: 40%;
+  height: 30%;
+}
+#first {
+  padding: auto;
+  width: 40%;
+  height: 30%;
+}
+#dest
+{
+margin-right:20px;
+margin-left:20px;
+}
+#start
+{
+margin-right:20px;
+margin-left:20px;
+}
